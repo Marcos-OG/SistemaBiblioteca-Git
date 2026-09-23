@@ -1,6 +1,0 @@
-Módulo de registro de usuarios
-
-Funciones:
-- Registrar usuario
-- Guardar nombre
-- Guardar correo
